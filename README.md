@@ -60,4 +60,3 @@ While this project provides actionable insights, there are opportunities to exte
 - Implement backtesting to evaluate historical performance of selected ETFs.
 - Enhance modularity by refactoring code into reusable functions for easier maintenance and scalability.
 - Include deeper analysis on dividend yield and use predictive models to optimize a trading portfolio.
-    
