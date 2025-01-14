@@ -44,13 +44,14 @@ The project includes automated data scraping, cleaning, exploratory data analysi
 
 ### Prerequisites
 
-Ensure the following are installed in your environment:
+Ensure the following are installed in your environment (the code block for these are included in the file):
 
-- Python 3.7+
-- Required libraries:
-  ```bash
-  pip install pandas numpy matplotlib seaborn plotly selenium beautifulsoup4 yfinance
+!pip install --upgrade gspread gspread-dataframe pandas
+!pip install plotly
 
+!pip install selenium
+!apt update # Update package lists
+!apt install chromium-chromedriver # Install chromium and the driver
 
 ## Future Enhancements
 
